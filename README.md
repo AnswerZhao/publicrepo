@@ -4,11 +4,11 @@
 
 ## 使用方式
 
-1. 下载仓库里的压缩包：`openclaw-weixin-diff-files-20260324-112038.tar.gz`
+1. 下载仓库里的压缩包：`openclaw-weixin-diff-files-20260324-112038-clean.tar.gz`
 2. 执行下面命令：
 
 ```bash
-tar -xzf ~/Downloads/openclaw-weixin-diff-files-20260324-112038.tar.gz -C ~/.openclaw/extensions/openclaw-weixin
+tar -xzf ~/Downloads/openclaw-weixin-diff-files-20260324-112038-clean.tar.gz -C ~/.openclaw/extensions/openclaw-weixin
 ```
 
 ## 说明
